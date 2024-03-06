@@ -4,7 +4,7 @@ function a() {
 
 }
 
-function b() {
+function b(float exp) {
 
 
 

@@ -4,7 +4,7 @@ function a() {
 
 }
 
-function b(int master) {
+function b(int master,float exp) {
 
 
 
